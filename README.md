@@ -1,5 +1,5 @@
 # spire_wizard
-The Python code behind the Spire Wizard for Elvenar tool: https://dzesyi.com/spire-wizard
+The Python code behind the Spire Wizard for Elvenar tool: https://javascriptorian.com/spire-wizard
 
 People have asked to see the code behind the Spire Wizard, so here it is: 3 Python scripts explained in order of use:
 
